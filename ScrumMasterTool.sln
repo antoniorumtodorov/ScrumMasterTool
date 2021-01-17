@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrumMasterTool", "ScrumMasterTool\ScrumMasterTool.csproj", "{98172E7C-7B90-4BAD-A65B-5068175763F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CovertObejectToJson", "..\ConsoleApp1\ConsoleApp1\CovertObejectToJson.csproj", "{8AB14C72-20FB-4CB4-80E5-4FBD8693F350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98172E7C-7B90-4BAD-A65B-5068175763F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98172E7C-7B90-4BAD-A65B-5068175763F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98172E7C-7B90-4BAD-A65B-5068175763F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98172E7C-7B90-4BAD-A65B-5068175763F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB14C72-20FB-4CB4-80E5-4FBD8693F350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB14C72-20FB-4CB4-80E5-4FBD8693F350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB14C72-20FB-4CB4-80E5-4FBD8693F350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB14C72-20FB-4CB4-80E5-4FBD8693F350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F4AD152-A515-4466-B07F-6AEA22DC4FC9}
+	EndGlobalSection
+EndGlobal

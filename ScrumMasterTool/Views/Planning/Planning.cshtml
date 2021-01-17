@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Member>
+
+<h1>Planning</h1>
+<p>Count: @Model.Count()</p>
+@foreach (var member in Model)
+{
+    <li>@member.Name</li>
+}
